@@ -11,6 +11,7 @@ psycopg[binary]
 
 
 # deployment module
+django-debug-toolbarv
 
 
 
