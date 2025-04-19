@@ -1,0 +1,29 @@
+# general  modules
+django
+python-decouple
+Pillow
+djangorestframework
+psycopg[binary]
+
+# third party modules
+
+
+
+
+# deployment module
+
+
+
+# email third party modules
+
+
+
+# refactoring and tests
+
+
+
+# background process and cache
+celery
+django_celery_beat
+redis
+django-redis
